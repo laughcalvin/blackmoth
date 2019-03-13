@@ -1,0 +1,52 @@
+/* fanpagestyle.css */
+
+body {
+    background-image: url("https://bandcampblog.files.wordpress.com/2016/07/tobacco-600-1.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p {
+    color: ivory;
+    font-size: 1.3em;
+}
+
+h1 {
+    color: hsl(204, 87%, 59%);
+    font-weight: bolder;
+    font-size: 4em;
+    font-family: Arial;
+}
+
+h2 {
+    font-size: 2.5em;
+    font-weight: bolder;
+    color: black;
+    font-family: Arial;
+}
+
+h3 {
+    color: ivory;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+table {
+    color: ivory;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: #616161;
+}
+
+.pics {
+    border-style: dashed;
+    border-color: #616160;
+    border-width: 10px;
+}
+
+ul {
+    font-size: 1.2em;
+    color: ivory;
+}
